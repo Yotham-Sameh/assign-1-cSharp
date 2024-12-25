@@ -1,0 +1,14 @@
+D:\C# assigment\Assign 1 cSharp\Assign 1 cSharp\bin\Debug\net8.0\Assign 1 cSharp.exe
+D:\C# assigment\Assign 1 cSharp\Assign 1 cSharp\bin\Debug\net8.0\Assign 1 cSharp.deps.json
+D:\C# assigment\Assign 1 cSharp\Assign 1 cSharp\bin\Debug\net8.0\Assign 1 cSharp.runtimeconfig.json
+D:\C# assigment\Assign 1 cSharp\Assign 1 cSharp\bin\Debug\net8.0\Assign 1 cSharp.dll
+D:\C# assigment\Assign 1 cSharp\Assign 1 cSharp\bin\Debug\net8.0\Assign 1 cSharp.pdb
+D:\C# assigment\Assign 1 cSharp\Assign 1 cSharp\obj\Debug\net8.0\Assign 1 cSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# assigment\Assign 1 cSharp\Assign 1 cSharp\obj\Debug\net8.0\Assign 1 cSharp.AssemblyInfoInputs.cache
+D:\C# assigment\Assign 1 cSharp\Assign 1 cSharp\obj\Debug\net8.0\Assign 1 cSharp.AssemblyInfo.cs
+D:\C# assigment\Assign 1 cSharp\Assign 1 cSharp\obj\Debug\net8.0\Assign 1 cSharp.csproj.CoreCompileInputs.cache
+D:\C# assigment\Assign 1 cSharp\Assign 1 cSharp\obj\Debug\net8.0\Assign 1 cSharp.dll
+D:\C# assigment\Assign 1 cSharp\Assign 1 cSharp\obj\Debug\net8.0\refint\Assign 1 cSharp.dll
+D:\C# assigment\Assign 1 cSharp\Assign 1 cSharp\obj\Debug\net8.0\Assign 1 cSharp.pdb
+D:\C# assigment\Assign 1 cSharp\Assign 1 cSharp\obj\Debug\net8.0\Assign 1 cSharp.genruntimeconfig.cache
+D:\C# assigment\Assign 1 cSharp\Assign 1 cSharp\obj\Debug\net8.0\ref\Assign 1 cSharp.dll
